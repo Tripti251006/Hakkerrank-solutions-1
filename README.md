@@ -1,2 +1,2 @@
-# Hakkerrank-solutions-1
-The solution of hakkerrank 
+
+Addition, subtraction and multiplication. https://hr.gs/4lnmn
